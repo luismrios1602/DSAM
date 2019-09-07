@@ -1,0 +1,5 @@
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio4\bin\Debug\Ejercicio4.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio4\bin\Debug\Ejercicio4.pdb
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio4\obj\Debug\Ejercicio4.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio4\obj\Debug\Ejercicio4.pdb

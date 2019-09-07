@@ -1,0 +1,12 @@
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Documentos\Probando_dospuntosV\SEMESTRE_II\Tecnologías .NET\Seguimiento 1\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.pdb
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio1\obj\Debug\Ejercicio1.pdb

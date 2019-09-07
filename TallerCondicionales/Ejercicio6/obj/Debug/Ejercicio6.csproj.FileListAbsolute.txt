@@ -1,0 +1,4 @@
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio6\bin\Debug\Ejercicio6.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio6\bin\Debug\Ejercicio6.pdb
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio6\obj\Debug\Ejercicio6.exe
+F:\Documentos\CBN\Semestre II\Tecnologías . NET\TallerCondicionales\Ejercicio6\obj\Debug\Ejercicio6.pdb
