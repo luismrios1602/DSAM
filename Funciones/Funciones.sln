@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacionesBasicas", "OperacionesBasicas\OperacionesBasicas.csproj", "{3261198E-7745-4C97-9A78-4265203DA53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionPow", "FuncionPow\FuncionPow.csproj", "{BC09E26C-8F16-4430-99D0-FC8DEFB3AB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3261198E-7745-4C97-9A78-4265203DA53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3261198E-7745-4C97-9A78-4265203DA53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3261198E-7745-4C97-9A78-4265203DA53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3261198E-7745-4C97-9A78-4265203DA53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC09E26C-8F16-4430-99D0-FC8DEFB3AB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC09E26C-8F16-4430-99D0-FC8DEFB3AB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC09E26C-8F16-4430-99D0-FC8DEFB3AB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC09E26C-8F16-4430-99D0-FC8DEFB3AB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
