@@ -1,0 +1,12 @@
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\bin\Debug\ejercicio4.exe
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\obj\Debug\ejercicio4.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\obj\Debug\ejercicio4.exe
+D:\Documentos\SharpDevelop Projects\Taller.NET\ejercicio4\obj\Debug\ejercicio4.pdb
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\bin\Debug\ejercicio4.exe.config
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\bin\Debug\ejercicio4.exe
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\bin\Debug\ejercicio4.pdb
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\obj\Debug\ejercicio4.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\obj\Debug\ejercicio4.exe
+D:\Documentos\SharpDevelop Projects\TallerFunciones\ejercicio4\obj\Debug\ejercicio4.pdb
