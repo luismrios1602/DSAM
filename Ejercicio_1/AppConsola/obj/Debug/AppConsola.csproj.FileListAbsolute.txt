@@ -1,0 +1,8 @@
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\bin\Debug\AppConsola.exe.config
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\bin\Debug\AppConsola.exe
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\bin\Debug\AppConsola.pdb
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\bin\Debug\Logica.dll
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\bin\Debug\Logica.pdb
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\obj\Debug\AppConsola.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\obj\Debug\AppConsola.exe
+D:\Documentos\Visual Studio 2015\Projects\Ejercicio_1\AppConsola\obj\Debug\AppConsola.pdb
