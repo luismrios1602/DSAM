@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\bin\Debug\appCajaRegistradora.exe.config
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\bin\Debug\appCajaRegistradora.exe
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\bin\Debug\appCajaRegistradora.pdb
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.Properties.Resources.resources
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.exe
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.pdb
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.Inicio.resources
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\appCajaRegistradora\obj\Debug\appCajaRegistradora.FormRegistrar.resources
