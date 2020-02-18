@@ -35,7 +35,8 @@ namespace appCajaRegistradora
         {
             FormRegistrar fR = new FormRegistrar();
 
-            fR.Show();
+            fR.ShowDialog();
+            
         }
     }
 }
