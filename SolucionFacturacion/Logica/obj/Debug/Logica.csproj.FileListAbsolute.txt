@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\Logica\bin\Debug\Logica.dll
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\Logica\bin\Debug\Logica.pdb
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\Logica\obj\Debug\Logica.dll
+D:\Documentos\Visual Studio 2015\Projects\SolucionFacturacion\Logica\obj\Debug\Logica.pdb
