@@ -1,0 +1,6 @@
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\bin\Debug\Enumeracion.exe.config
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\bin\Debug\Enumeracion.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\bin\Debug\Enumeracion.pdb
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\obj\Debug\Enumeracion.csprojAssemblyReference.cache
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\obj\Debug\Enumeracion.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Enumeracion\obj\Debug\Enumeracion.pdb

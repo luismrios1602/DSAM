@@ -1,0 +1,6 @@
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\bin\Debug\Interpolacion.exe.config
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\bin\Debug\Interpolacion.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\bin\Debug\Interpolacion.pdb
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\obj\Debug\Interpolacion.csprojAssemblyReference.cache
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\obj\Debug\Interpolacion.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Interpolacion\obj\Debug\Interpolacion.pdb

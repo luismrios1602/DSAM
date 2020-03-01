@@ -1,0 +1,6 @@
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\bin\Debug\Estructuras.exe.config
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\bin\Debug\Estructuras.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\bin\Debug\Estructuras.pdb
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\obj\Debug\Estructuras.csprojAssemblyReference.cache
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\obj\Debug\Estructuras.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\Estructuras\obj\Debug\Estructuras.pdb

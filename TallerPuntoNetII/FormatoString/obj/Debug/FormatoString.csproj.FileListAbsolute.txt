@@ -1,0 +1,6 @@
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\bin\Debug\FormatoString.exe.config
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\bin\Debug\FormatoString.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\bin\Debug\FormatoString.pdb
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\obj\Debug\FormatoString.csprojAssemblyReference.cache
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\obj\Debug\FormatoString.exe
+F:\Documentos\CBN\Semestre_III\Tecnologias puntoNET II\TallerPuntoNetII\FormatoString\obj\Debug\FormatoString.pdb
