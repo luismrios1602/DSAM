@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\bin\Debug\appTiempo.exe.config
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\bin\Debug\appTiempo.exe
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\bin\Debug\appTiempo.pdb
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\obj\Debug\appTiempo.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\obj\Debug\appTiempo.exe
+D:\Documentos\Visual Studio 2015\Projects\appTiempo\appTiempo\obj\Debug\appTiempo.pdb
